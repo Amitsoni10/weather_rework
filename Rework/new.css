@@ -1,5 +1,12 @@
-.firstcont{
-    margin: auto;
-    width: 50%;
-    padding: 10px 450px;
+li.nav{
+    display: block;
+    padding: 10px;
+}
+
+#navbar{
+    height: 210px;   
+}
+
+#right{
+    float: left;
 }
